@@ -6,11 +6,14 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	color: #202030;
 	background-color: #FFFFFF;
 }
-
+.custom-heading {
+    font-family: Verdana; /* Change the font */
+    color: #000000; /* Change the color */
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
