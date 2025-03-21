@@ -55,3 +55,11 @@ body {
 .custom-progress {
     background-color: #78B869 !important; /* Custom Orange */
 }
+.custom-text-color {
+    color: mediumvioletred; /* Change this to any color you like */
+}
+.move-right {
+    position: relative;
+    left: 30px; /* Moves the image 20px to the right */
+}
+
